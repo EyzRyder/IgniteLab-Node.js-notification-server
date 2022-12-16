@@ -4,7 +4,7 @@
 
 ## Description
 
- framework TypeScript starter repository.
+This is a Notification Server project done in Ignite Lab-Node.js classes, done using technologies from nest.js and testing with jest.
 
 ## Installation
 
